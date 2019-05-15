@@ -12,7 +12,7 @@ public class Exercicio5 {
 		
 		System.out.println("         Lista de Produtos        ");
 		System.out.println("----------------------------------");
-		System.out.println("CÓDIGO  |  ESPECIFICAÇÃO  |  PREÇO");
+		System.out.println("CÃ“DIGO  |  ESPECIFICAÃ‡ÃƒO  |  PREÃ‡O");
 		System.out.println("1       | Cachorro Quente | R$4,00");
 		System.out.println("2       |    X-Salada     | R$4,50");
 		System.out.println("3       |    X-Bacon      | R$5,00");
@@ -20,7 +20,7 @@ public class Exercicio5 {
 		System.out.println("5       |  Refrigerante   | R$1,50");
 		System.out.println("");
 		
-		System.out.println("Insira o código do produto:");
+		System.out.println("Insira o cÃ³digo do produto:");
 		int codigo = sc.nextInt();
 		System.out.println("");
 		
