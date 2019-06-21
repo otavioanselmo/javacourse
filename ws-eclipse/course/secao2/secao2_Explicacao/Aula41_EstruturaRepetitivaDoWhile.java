@@ -17,7 +17,7 @@ public class Aula41_EstruturaRepetitivaDoWhile {
 			double n = sc.nextDouble();
 		
 			double sq = Math.sqrt(n);
-			System.out.printf("Square root: %.3f %n", sq);
+			System.out.printf("Square root: %.2f %n", sq);
 			
 			System.out.print("Repeat (y/n)? ");
 			resp = sc.next().charAt(0);
